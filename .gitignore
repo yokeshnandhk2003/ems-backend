@@ -37,3 +37,8 @@ build/
 *.log
 .env
 application-local.properties
+/target
+/.idea
+/.vscode
+*.log
+.env
